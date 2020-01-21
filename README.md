@@ -1,2 +1,2 @@
 # Structure
-structure made using kotlin, mvvm , coroutine and dagger2
+structure made using kotlin, mvvm , coroutine and koin
